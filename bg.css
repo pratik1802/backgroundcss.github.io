@@ -1,0 +1,16 @@
+#check{
+    height: 200vh;
+    width: 100vw;
+    border: 1px dashed #4169e1;
+    color: blueviolet;
+    background-color: aqua;
+    background-image: url("../images/1.jpg");
+    background-repeat:no-repeat;
+    background-size: 50% 59%;
+    background-attachment:fixed;
+    background-position:top right ;
+    
+    
+
+
+}
